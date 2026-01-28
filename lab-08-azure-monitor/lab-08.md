@@ -6,11 +6,11 @@ A Windows virtual machine was deployed using Azure PowerShell to serve as the te
 
 ![Resource group created](screenshots/exercise-01-vm-deployment/lab801.png)
 
-![VM deployment command](screenshots/exercise-01-vm-deployment/Screenshot 2.png)
+![VM deployment command](screenshots/exercise-01-vm-deployment/Screenshot2.png)
 
-![Provisioning succeeded](screenshots/exercise-01-vm-deployment/Screenshot 3.png)
+![Provisioning succeeded](screenshots/exercise-01-vm-deployment/Screenshot3.png)
 
-![VM overview](screenshots/exercise-01-vm-deployment/Screenshot 4.png)
+![VM overview](screenshots/exercise-01-vm-deployment/Screenshot4.png)
 
 ---
 
@@ -22,7 +22,7 @@ A Log Analytics Workspace was created to centralize performance metrics and syst
 
 ![Log Analytics workspace configuration](screenshots/exercise-02-log-analytics/lab802.png)
 
-![Log Analytics workspace created](screenshots/exercise-02-log-analytics/Screenshot 6.png)
+![Log Analytics workspace created](screenshots/exercise-02-log-analytics/Screenshot6.png)
 
 ---
 
@@ -46,4 +46,4 @@ Collected metrics include CPU, memory, disk, and network performance at 60-secon
 
 ![DCR performance counters](screenshots/exercise-04-dcr/lab804.png)
 
-![DCR destination Log Analytics](screenshots/exercise-04-dcr/Screenshot 9.png)
+![DCR destination Log Analytics](screenshots/exercise-04-dcr/Screenshot9.png)
